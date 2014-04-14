@@ -25,6 +25,11 @@
 		</dependency>
 	</dependencies>
 
+	<ciManagement>
+		<system>Jenkins</system>
+		<url>http://jenkins.imagej.net/job/level_sets/</url>
+	</ciManagement>
+
 	<scm>
 		<connection>scm:git:git://github.com/fiji/level_sets</connection>
 		<developerConnection>scm:git:git@github.com:fiji/level_sets</developerConnection>
