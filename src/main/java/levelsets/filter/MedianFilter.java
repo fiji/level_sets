@@ -2,9 +2,13 @@
 
 package levelsets.filter;
 
-import java.awt.*;
-import java.awt.image.*;
-import java.util.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
+import java.awt.image.WritableRenderedImage;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
 /**
  * Performs a median filtering on the input image. This is a quite expensive 

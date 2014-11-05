@@ -6,7 +6,8 @@
 
 package levelsets.filter;
 
-import java.awt.image.*;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 
 /**
  * Performs a grey value erosion operation on the input using a defineable mask.

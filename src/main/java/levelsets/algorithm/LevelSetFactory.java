@@ -5,7 +5,6 @@ import ij.IJ;
 import java.util.EnumMap;
 import java.util.HashMap;
 import java.util.Iterator;
-import java.util.Vector;
 
 import levelsets.ij.ImageContainer;
 import levelsets.ij.ImageProgressContainer;

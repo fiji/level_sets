@@ -6,8 +6,8 @@
 
 package levelsets.filter;
 
-import java.awt.image.*;
-import java.awt.*;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 
 /**
  *

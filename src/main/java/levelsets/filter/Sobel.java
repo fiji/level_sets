@@ -6,12 +6,11 @@
 
 package levelsets.filter;
 
-import java.awt.image.BufferedImage;
-import java.awt.image.Raster;
-import java.awt.image.DataBufferUShort;
-
-import levelsets.ij.ImageContainer;
 import ij.process.ShortProcessor;
+
+import java.awt.image.BufferedImage;
+import java.awt.image.DataBufferUShort;
+import java.awt.image.Raster;
 
 
 /**

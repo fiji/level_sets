@@ -1,8 +1,13 @@
 package levelsets.filter;
 
-import java.awt.Image;
-import java.awt.image.*;
 import ij.process.ShortProcessor;
+
+import java.awt.Image;
+import java.awt.image.BufferedImage;
+import java.awt.image.ColorModel;
+import java.awt.image.DataBufferUShort;
+import java.awt.image.MemoryImageSource;
+import java.awt.image.PixelGrabber;
 
 /**
  * Adapted from the Sun Java Forums. See:

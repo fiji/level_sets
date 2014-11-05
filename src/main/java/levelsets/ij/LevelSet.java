@@ -51,8 +51,8 @@ import java.util.Iterator;
 import levelsets.algorithm.DeferredObjectArray3D;
 import levelsets.algorithm.FastMarching;
 import levelsets.algorithm.LevelSetFactory;
-import levelsets.algorithm.LevelSetImplementation;
 import levelsets.algorithm.LevelSetFactory.Parameter;
+import levelsets.algorithm.LevelSetImplementation;
 import levelsets.ij.StateContainer.States;
 
 public class LevelSet implements PlugIn {

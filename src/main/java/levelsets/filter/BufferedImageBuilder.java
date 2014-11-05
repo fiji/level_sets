@@ -36,9 +36,9 @@
 
 package levelsets.filter;
 
-import java.awt.*;
-import java.awt.image.*;
-import java.util.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.ColorModel;
+import java.awt.image.ImageConsumer;
 
 public class BufferedImageBuilder implements ImageConsumer
 {

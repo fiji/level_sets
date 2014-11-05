@@ -1,8 +1,8 @@
 package levelsets.filter;
 
-import java.awt.image.*;
-import java.awt.*;
-import java.awt.geom.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 
 /**
  * Base class for all morphological operations.

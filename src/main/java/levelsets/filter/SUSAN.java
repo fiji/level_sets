@@ -6,10 +6,13 @@
 
 package levelsets.filter;
 
-import java.awt.image.*;
-import java.awt.*;
-import java.awt.geom.*;
 import ij.process.ShortProcessor;
+
+import java.awt.geom.Ellipse2D;
+import java.awt.image.BufferedImage;
+import java.awt.image.DataBufferUShort;
+import java.awt.image.Raster;
+import java.awt.image.WritableRaster;
 
 /**
  *

@@ -2,8 +2,9 @@
 
 package levelsets.filter;
 
-import java.awt.*;
-import java.awt.image.*;
+import java.awt.image.BufferedImage;
+import java.awt.image.WritableRaster;
+import java.awt.image.WritableRenderedImage;
 
 /**
  *

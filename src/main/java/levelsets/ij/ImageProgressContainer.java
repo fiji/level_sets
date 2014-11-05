@@ -1,9 +1,7 @@
 package levelsets.ij;
 
-import ij.ImagePlus;
 import ij.process.ColorProcessor;
 import ij.process.ImageProcessor;
-import ij.process.ShortProcessor;
 
 
 /*

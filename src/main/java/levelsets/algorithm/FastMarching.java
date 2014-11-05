@@ -4,8 +4,8 @@ package levelsets.algorithm;
 
 import ij.IJ;
 
-import java.util.PriorityQueue;
 import java.util.ArrayList;
+import java.util.PriorityQueue;
 
 import levelsets.filter.GreyValueErosion;
 import levelsets.filter.MorphologicalOperator;

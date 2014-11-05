@@ -2,9 +2,14 @@
 
 package levelsets.filter;
 
-import java.awt.*;
-import java.awt.image.*;
 import ij.process.ShortProcessor;
+
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.awt.image.BufferedImageOp;
+import java.awt.image.ColorModel;
+import java.awt.image.ConvolveOp;
+import java.awt.image.Kernel;
 
 /**
  * Performs a convolution operation on the input image.
