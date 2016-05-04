@@ -50,10 +50,7 @@
 			<url>http://imagej.net/User:Albertcardona</url>
 			<properties><id>acardona</id></properties>
 		</contributor>
-		<contributor>
-			<name>Arne-Michael Toersel</name>
-			<url>http://home.arcor.de/arne-michael/</url>
-		</contributor>
+		<contributor><name>Arne-Michael Toersel</name></contributor>
 	</contributors>
 
 	<scm>
