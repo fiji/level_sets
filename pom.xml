@@ -24,14 +24,6 @@
 				<role>maintainer</role>
 			</roles>
 		</developer>
-		<developer>
-			<id>hinerm</id>
-			<name>Mark Hiner</name>
-			<url>http://imagej.net/User:Hinerm</url>
-			<roles>
-				<role>maintainer</role>
-			</roles>
-		</developer>
 	</developers>
 	<contributors>
 		<contributor>
@@ -49,6 +41,11 @@
 			<name>Albert Cardona</name>
 			<url>http://imagej.net/User:Albertcardona</url>
 			<properties><id>acardona</id></properties>
+		</contributor>
+		<contributor>
+			<name>Mark Hiner</name>
+			<url>http://imagej.net/User:Hinerm</url>
+			<properties><id>hinerm</id></properties>
 		</contributor>
 		<contributor><name>Arne-Michael Toersel</name></contributor>
 	</contributors>
