@@ -82,8 +82,8 @@
 		<url>https://github.com/fiji/level_sets/issues</url>
 	</issueManagement>
 	<ciManagement>
-		<system>Jenkins</system>
-		<url>http://jenkins.imagej.net/job/level_sets/</url>
+		<system>Travis CI</system>
+		<url>https://travis-ci.org/fiji/level_sets</url>
 	</ciManagement>
 
 	<properties>
