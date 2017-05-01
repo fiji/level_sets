@@ -138,8 +138,9 @@ public abstract class SparseFieldLevelSet implements StagedAlgorithm
    /**
     * Creates a new instance of LevelSet
     * @param image The input image
-    * @param fm The Fast Marching stage that was run before
-    * @param gradients Image gradients?
+		* @param img_progress
+		* @param init_state
+		* @param convergence
     */
    public SparseFieldLevelSet(ImageContainer image, ImageProgressContainer img_progress, StateContainer init_state,
 		   double convergence )

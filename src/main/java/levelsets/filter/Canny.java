@@ -10,9 +10,9 @@ import java.awt.image.MemoryImageSource;
 import java.awt.image.PixelGrabber;
 
 /**
- * Adapted from the Sun Java Forums. See:
- * http://forum.java.sun.com/thread.jspa?threadID=546211&start=45
- * for the original code
+ * Adapted from <a
+ * href="http://forum.java.sun.com/thread.jspa?threadID=546211&start=45">this
+ * article</a> of the Sun Java Forums.
  */
 public class Canny implements Filter
 {

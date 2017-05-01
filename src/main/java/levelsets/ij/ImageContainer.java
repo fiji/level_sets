@@ -62,10 +62,7 @@ public class ImageContainer
 	   proc_pixels = null;
    }
    
-   /**
-    * Constructs a new ImageContainer
-    * @param images An BufferdImages array
-    */
+   /** Constructs a new ImageContainer. */
    public ImageContainer(final ImagePlus ip)
    {
       this.ip = ip; 
@@ -192,13 +189,13 @@ public class ImageContainer
    
    
    /**
-    * Returns an passed array filled with the pixel values at the selected
-    * coordinates
+    * Returns an array filled with the pixel values at the selected
+    * coordinates.
+		*
     * @param x The X coordinate
     * @param y The Y coordinate
     * @param z The Z coordinate
-    * @param pixel An array suitable to be filled with pixel values - usually RGB(A).
-    * @return The array filled with the pixel values
+    * @return An array filled with the pixel values
     */
    public final int getPixel(final int x, final int y, final int z)
    {
