@@ -11,7 +11,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>level_sets</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 
 	<name>Level Sets</name>
 	<description>Level Sets plugin for Fiji.</description>
@@ -74,7 +74,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fiji/level_sets</connection>
 		<developerConnection>scm:git:git@github.com:fiji/level_sets</developerConnection>
-		<tag>HEAD</tag>
+		<tag>level_sets-1.0.2</tag>
 		<url>https://github.com/fiji/level_sets</url>
 	</scm>
 	<issueManagement>
