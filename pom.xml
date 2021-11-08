@@ -72,7 +72,7 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/fiji/level_sets</connection>
+		<connection>scm:git:https://github.com/fiji/level_sets</connection>
 		<developerConnection>scm:git:git@github.com:fiji/level_sets</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/fiji/level_sets</url>
